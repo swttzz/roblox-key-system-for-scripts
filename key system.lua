@@ -19,7 +19,7 @@ local Window = Rayfield:CreateWindow({
        FileName = "swttzzkey",
        SaveKey = true,
        GrabKeyFromSite = false,
-       Key = {"159753","tkngplays"} 
+       Key = {"159753","tkngplays"} -- your key
     }
  })
 
